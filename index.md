@@ -6,12 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-https://api.instagram.com/oauth/authorize
-?client_id=294918915321661
-&redirect_uri=https://jjpaquin.github.io/API/
-&scope=user_profile,user_media
-&response_type=code
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
