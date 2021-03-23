@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[Link](https://api.instagram.com/oauth/authorize
+[authorize](https://api.instagram.com/oauth/authorize
 ?client_id=294918915321661
 &redirect_uri=https://jjpaquin.github.io/API/
 &scope=user_profile,user_media
